@@ -17,7 +17,7 @@
 <meta property="og:description" content="/boot分区:/boot分区是操作系统的内核及在引导过程中使用的文件（现在可以不用划分这个区了）。 Swap:Swap分区在系统的物理内存不够用的时候，把物理内存中的一部分空间释放出来，以供当前运行的程序使用。 / :根分区就是系统分区。">
 <meta property="og:locale" content="cn">
 <meta property="og:image" content="https://upload-images.jianshu.io/upload_images/10949367-b22990824309e96e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240">
-<meta property="og:updated_time" content="2018-08-23T09:29:54.477Z">
+<meta property="og:updated_time" content="2018-08-23T10:26:51.564Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="it my life">
 <meta name="twitter:description" content="/boot分区:/boot分区是操作系统的内核及在引导过程中使用的文件（现在可以不用划分这个区了）。 Swap:Swap分区在系统的物理内存不够用的时候，把物理内存中的一部分空间释放出来，以供当前运行的程序使用。 / :根分区就是系统分区。">
@@ -346,26 +346,33 @@ var _hmt = _hmt || [];
 
 
 
-	
-		<!-- 来必力City版安装代码 -->
-<div id="lv-container" data-id="city" data-uid="MTAyMC8zOTE3Ny8xNTcwNA==">
-	<script type="text/javascript">
-   (function(d, s) {
-       var j, e = d.getElementsByTagName(s)[0];
+  <section id="comments" class="comments">
+    <style>
+      .comments{margin:30px;padding:10px;background:#fff}
+      @media screen and (max-width:800px){.comments{margin:auto;padding:10px;background:#fff}}
+    </style>
+    <div id="vcomment" class="comment"></div>
+<script src="//cdn.jsdelivr.net/npm/jquery@latest/dist/jquery.min.js"></script>
+<script src="//cdn.jsdelivr.net/npm/leancloud-storage@latest/dist/av-min.js"></script>
+<script src='//cdn.jsdelivr.net/npm/valine@latest/dist/Valine.min.js'></script>
+<script>
+   var notify = 'false' == true ? true : false;
+   var verify = 'false' == true ? true : false;
+   new Valine({
+            av: AV,
+            el: '#vcomment',
+            notify: notify,
+            verify: verify,
+            app_id: "I8gYkqyjyzgdQmJQBu9sQLfm-gzGzoHsz",
+            app_key: "Ok8OGMxhRyJEA5ANdhb1RNLc",
+            placeholder: "瞎白话",
+            avatar: "",
+            avatar_cdn: "https://sdn.geekzu.org/avatar/",
+            pageSize: 15
+    });
+</script>
+  </section>
 
-       if (typeof LivereTower === 'function') { return; }
-
-       j = d.createElement(s);
-       j.src = 'https://cdn-city.livere.com/js/embed.dist.js';
-       j.async = true;
-
-       e.parentNode.insertBefore(j, e);
-   })(document, 'script');
-	</script>
-<noscript> 为正常使用来必力评论功能请激活JavaScript</noscript>
-</div>
-<!-- City版安装代码已完成 -->
-	
 
   
   
