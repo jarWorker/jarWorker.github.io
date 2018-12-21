@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://www.jarworker.cn/photos/index.html</loc>
+    
+    <lastmod>2018-12-21T06:45:06.328Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://www.jarworker.cn/photos/data.json</loc>
     
     <lastmod>2018-12-18T09:52:20.126Z</lastmod>
@@ -26,13 +33,6 @@
     <loc>http://www.jarworker.cn/2018/08/22/linux/linuxZone/</loc>
     
     <lastmod>2018-08-26T04:17:38.433Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.jarworker.cn/photos/index.html</loc>
-    
-    <lastmod>2018-08-22T11:41:52.310Z</lastmod>
     
   </url>
   
