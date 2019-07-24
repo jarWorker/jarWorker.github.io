@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://www.jarworker.cn/2018/08/26/linux/vim/</loc>
+    
+    <lastmod>2019-07-24T06:13:21.261Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://www.jarworker.cn/2018/08/20/index/</loc>
     
     <lastmod>2018-12-25T08:53:52.686Z</lastmod>
@@ -12,13 +19,6 @@
     <loc>http://www.jarworker.cn/2018/08/22/linux/linuxZone/</loc>
     
     <lastmod>2018-12-25T08:51:56.767Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.jarworker.cn/2018/08/26/linux/vim/</loc>
-    
-    <lastmod>2018-12-25T08:49:44.188Z</lastmod>
     
   </url>
   
