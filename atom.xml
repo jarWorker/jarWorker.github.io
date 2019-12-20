@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.jarworker.cn/"/>
-  <updated>2019-07-24T08:38:55.795Z</updated>
+  <updated>2019-11-19T14:11:56.199Z</updated>
   <id>http://www.jarworker.cn/</id>
   
   <author>
@@ -15,6 +15,36 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>数据库范式</title>
+    <link href="http://www.jarworker.cn/2019/11/19/live/Paradigm/"/>
+    <id>http://www.jarworker.cn/2019/11/19/live/Paradigm/</id>
+    <published>2019-11-19T05:40:31.000Z</published>
+    <updated>2019-11-19T14:11:56.199Z</updated>
+    
+    <content type="html"><![CDATA[<p>##关系数据库有六种范式</p><ol><li><strong>第一范式（1NF）</strong></li><li><strong>第二范式（2NF）</strong></li><li><strong>第三范式（3NF）</strong></li><li><strong>巴斯-科德范式（BCNF）</strong></li><li><strong>第四范式(4NF）</strong></li><li><strong>第五范式（5NF，又称完美范式）</strong></li></ol><p>满足最低要求的范式是第一范式（1NF）。在第一范式的基础上进一步满足更多规范要求的称为第二范式（2NF），其余范式以次类推。一般说来，<strong>数据库只需满足第三范式(3NF）就行了</strong>。</p><hr><a id="more"></a><p>###第一范式（1NF）</p><p>###第二范式（2NF）</p><p>###第三范式（3NF）</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;##关系数据库有六种范式&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;第一范式（1NF）&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;第二范式（2NF）&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;第三范式（3NF）&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;巴斯-科德范式（BCNF）&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;第四范式(4NF）&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;第五范式（5NF，又称完美范式）&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;满足最低要求的范式是第一范式（1NF）。在第一范式的基础上进一步满足更多规范要求的称为第二范式（2NF），其余范式以次类推。一般说来，&lt;strong&gt;数据库只需满足第三范式(3NF）就行了&lt;/strong&gt;。&lt;/p&gt;
+&lt;hr&gt;
+    
+    </summary>
+    
+    
+      <category term="Database" scheme="http://www.jarworker.cn/tags/Database/"/>
+    
+  </entry>
   
   <entry>
     <title>Linux系统VI(VIM)编辑器</title>
